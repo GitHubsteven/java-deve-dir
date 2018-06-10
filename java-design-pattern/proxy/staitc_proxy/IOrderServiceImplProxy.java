@@ -1,4 +1,4 @@
-package proxy;
+package proxy.staitc_proxy;
 
 public class IOrderServiceImplProxy implements IOrderService{
     /*you can inject it in spring */

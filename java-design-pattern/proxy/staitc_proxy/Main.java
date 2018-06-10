@@ -1,4 +1,4 @@
-package proxy;
+package proxy.staitc_proxy;
 
 public class Main {
     public static void main(String[] args) {

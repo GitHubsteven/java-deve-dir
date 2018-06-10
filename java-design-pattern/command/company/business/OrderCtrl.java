@@ -1,6 +1,6 @@
 package command.company.business;
 
-import proxy.IOrderService;
+import proxy.staitc_proxy.IOrderService;
 
 /**
  * ctrl is a invoker, whose job is to send command, call the service to import a order, ctrl itself does not care how the service

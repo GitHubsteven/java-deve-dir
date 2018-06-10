@@ -1,4 +1,4 @@
-package proxy;
+package proxy.staitc_proxy;
 
 /**
  * Following is the illustration of the command pattern
